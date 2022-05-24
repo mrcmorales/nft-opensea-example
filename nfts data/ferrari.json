@@ -1,0 +1,15 @@
+{
+  "description": "This is a Ferrari car",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZodg7yECSSAEUVSXBHKiT9ZZQF2pWFN4ctv6gAeuVPi1",
+  "name": "Ferrari",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Sport"
+    }
+  ]
+}

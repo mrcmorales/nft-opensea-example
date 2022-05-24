@@ -1,0 +1,15 @@
+{
+  "description": "This is a Porsche car",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbsBao1BpCmhHudxAWmqAa48LGycBNxMXUW1L2JKbKend",
+  "name": "Porsche",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Sport"
+    }
+  ]
+}
